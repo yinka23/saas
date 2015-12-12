@@ -1,0 +1,11 @@
+{
+  "name": "saas",
+  "description": "saas",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+    "sendgrid"
+  ]
+}
